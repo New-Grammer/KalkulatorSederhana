@@ -1,2 +1,2 @@
 # KalkulatorSederhana
-Kalkulator sederhana pada aplikasi netbeans bahasa JAVA
+UTS F1 2209010228 MUHAMMAD ANANDA RM
